@@ -11,5 +11,9 @@ mapping.
 - ResearchGate
 
 
-### My maps
+## My maps
 <embed type="text/html" src="/img/USASK_map.html" height="650" width="850">
+
+
+## Temperature for Boulder, Colorado
+<embed type="text/html" src="boulder_plot.html" width="600" height="600">
