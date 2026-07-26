@@ -16,4 +16,4 @@ mapping.
 
 
 ## Temperature for Boulder, Colorado
-<embed type="text/html" src="boulder_plot.html" width="600" height="600">
+<embed type="text/html" src="img/boulder_plot.html" width="600" height="600">
