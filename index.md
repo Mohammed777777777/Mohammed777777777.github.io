@@ -9,9 +9,15 @@ I am a Research Assistant in the Department of Geography and Planning at the Uni
 <br clear="right">
 
 ## My Location
+
+I'm based in Saskatoon, Saskatchewan, on the northern Great Plains of Canada. The map below outlines the area I work in, the South Saskatchewan River runs along its western edge.
+
 <div align="center">
   <embed type="text/html" src="/img/USASK_map_Final.html" height="650" width="850">
 </div>
 
 ## Daily Maximum Temperature in Saskatoon (1996–2012)
+
+This plot tracks the average daily maximum temperature in Saskatoon across roughly a decade and a half. The year-to-year swings reflect the region's strongly continental climate, with the 2002 peak standing out against an otherwise steady range.
+
 <embed type="text/html" src="img/Saskatoon_plot.html" width="600" height="600">
