@@ -13,4 +13,4 @@ I am a Research Assistant in the Department of Geography and Planning at the Uni
 
 
 ## Temperature for Boulder, Colorado
-<embed type="text/html" src="img/boulder_plot.html" width="600" height="600">
+<embed type="text/html" src="img/Saskatoon_plot.html" width="600" height="600">
