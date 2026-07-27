@@ -9,7 +9,9 @@ I am a Research Assistant in the Department of Geography and Planning at the Uni
 <br clear="right">
 
 ## My Location
-<embed type="text/html" src="/img/USASK_map_Final.html" height="650" width="850">
+<div align="center">
+  <embed type="text/html" src="/img/USASK_map_Final.html" height="650" width="850">
+</div>
 
 ## Daily Maximum Temperature in Saskatoon (1996–2012)
 <embed type="text/html" src="img/Saskatoon_plot.html" width="600" height="600">
